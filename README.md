@@ -2,7 +2,7 @@
 
 I'm a software engineer and CS graduate from the **University of Virginia** interested in building scalable backend systems, distributed systems, and AI-powered products.
 
-I'm especially interested in **backend engineering, cloud infrastructure, machine learning, and mobile development** — and I enjoy taking ideas from architecture to production.
+I'm especially interested in **backend engineering, cloud infrastructure, machine learning, and mobile development**.
 
 ## Currently Building
 
